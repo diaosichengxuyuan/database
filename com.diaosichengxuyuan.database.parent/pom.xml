@@ -13,7 +13,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <guava.version>HEAD-jre-SNAPSHOT</guava.version>
+        <guava.version>29.0-jre</guava.version>
     </properties>
 
     <dependencyManagement>
